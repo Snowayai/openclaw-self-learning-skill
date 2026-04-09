@@ -36,13 +36,13 @@ A comprehensive, production-ready skill suite that transforms your OpenClaw agen
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/openclaw-self-learning-suite.git
+git clone https://github.com/Snowayai/openclaw-self-learning-skill.git
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Install as OpenClaw skill
-openclaw skill install ./openclaw-self-learning-suite
+openclaw skill install ./openclaw-self-learning-skill
 ```
 
 ### Basic Usage
@@ -193,8 +193,8 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/openclaw-self-learning-suite.git
-cd openclaw-self-learning-suite
+git clone https://github.com/Snowayai/openclaw-self-learning-skill.git
+cd openclaw-self-learning-skill
 
 # Create virtual environment
 python -m venv venv
@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - 📧 Email: support@openclaw-self-learning.dev
 - 💬 Discord: [Join our community](https://discord.gg/openclaw)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/openclaw-self-learning-suite/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/Snowayai/openclaw-self-learning-skill/issues)
 
 ---
 
@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Made with ❤️ for the OpenClaw Community**
 
-[⭐ Star us on GitHub](https://github.com/yourusername/openclaw-self-learning-suite) •
+[⭐ Star us on GitHub](https://github.com/Snowayai/openclaw-self-learning-skill) •
 [📖 Documentation](https://docs.openclaw-self-learning.dev) •
 [🚀 Get Started](#quick-start)
 
