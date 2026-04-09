@@ -223,8 +223,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📮 Support
 
-- 📧 Email: support@openclaw-self-learning.dev
-- 💬 Discord: [Join our community](https://discord.gg/openclaw)
 - 🐛 Issues: [GitHub Issues](https://github.com/Snowayai/openclaw-self-learning-skill/issues)
 
 ---
@@ -234,7 +232,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Made with ❤️ for the OpenClaw Community**
 
 [⭐ Star us on GitHub](https://github.com/Snowayai/openclaw-self-learning-skill) •
-[📖 Documentation](https://docs.openclaw-self-learning.dev) •
+[📖 Documentation](docs/) •
 [🚀 Get Started](#quick-start)
 
 </div>
